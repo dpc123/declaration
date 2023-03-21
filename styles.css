@@ -1,10 +1,11 @@
 h1 {
   color: blue;
-  size: 20px;
+  size: 25px;
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
-  margin: 10;
-  size: 15px;
+  margin: 100;
+  color: black;
+  size: 20px;
   font-family: Arial, Helvetica, sans-serif;
 }
